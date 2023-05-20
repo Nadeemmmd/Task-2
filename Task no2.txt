@@ -1,0 +1,18 @@
+<html>
+<title>firstpage</title>
+<style>        
+body{background-color: rgb(163, 202, 73);}
+h1{color: rgb(52, 214, 120);}
+h2{color: chartreuse;}
+a{color: rgb(120, 32, 175);}
+
+    </style>
+    <body>
+        <h1>click here to open home page</h1>
+<a href="page1.html"> <img src="my hero.jfif" height="30",width="30">page1</a>
+
+
+<h2>click here to open second page</h2>
+<a href="page3.html"> <img src="my hero.jfif" height="30",width="30">page3</a>
+    </body>
+</html>
